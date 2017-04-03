@@ -31,12 +31,12 @@
     "zone.js": "^0.8.5"
   },
   "peerDependencies" : {
-    "@angular/common": "^2.10.0",
-    "@angular/core": "^2.10.0",
-    "@angular/http": "^2.10.0",
-    "@angular/platform-browser": "^2.10.0",
-    "@angular/platform-browser-dynamic": "^2.10.0",
-    "@angular/router": "^2.10.0"
+    "@angular/common": "^2.0.0",
+    "@angular/core": "^2.0.0",
+    "@angular/http": "^2.0.0",
+    "@angular/platform-browser": "^2.0.0",
+    "@angular/platform-browser-dynamic": "^2.0.0",
+    "@angular/router": "^2.0.0"
   },
   "devDependencies": {
     "@angular/compiler": "^4.0.0",
